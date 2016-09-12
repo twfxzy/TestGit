@@ -6,4 +6,5 @@ package bcg.testgit;
 public class test {
     int i=0;
     int x=1;
+    String temp="how to use github?";
 }
