@@ -9,4 +9,5 @@ public class test {
     String temp="how to use github?";
     String temp1="how to use github?";
     String temp2="how to use github?";
+    String temp5 = "how to use github?";
 }
