@@ -5,4 +5,5 @@ package bcg.testgit;
  */
 public class test {
     int i=0;
+    int x=1;
 }
